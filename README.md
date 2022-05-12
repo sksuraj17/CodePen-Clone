@@ -10,7 +10,7 @@ Sample Image 1
 Sample Image 2
 ![image](https://user-images.githubusercontent.com/64256552/168145199-4dd714d5-0d52-47d6-8933-c684f92f25a0.png)
 ---------------------------------------------------------------------------------------------------------------
-Sample Image 3
+Sample Image 3 
 ![image](https://user-images.githubusercontent.com/64256552/168145187-db42dd18-d04a-488e-94ce-fabeee0530fd.png)
 
 
